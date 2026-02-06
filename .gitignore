@@ -1,0 +1,27 @@
+﻿# OS / Editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor config
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs / Temp
+*.log
+*.tmp
+~$*
+
+# Build / Cache
+.dist/
+.cache/
+
+# MkDocs
+site/
+
+# Python
+.venv/
+venv/
+__pycache__/

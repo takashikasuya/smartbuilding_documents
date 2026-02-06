@@ -1,0 +1,10 @@
+﻿site_name: Smart Building Documents
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - Ontology Survey: smart_building_ontology_survey.md
+  - Point List: pointlist.md
+  - Data Flow: smart_building_data_flow.md
